@@ -18,4 +18,6 @@ git config --> définir les options de configuration
 
 git log --> permet d'explorer les anciennes révisions du projet 
 
+stage area = zone intermédiaire entre dépot local et dépot web 
+
 

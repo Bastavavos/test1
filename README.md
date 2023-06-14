@@ -1,4 +1,6 @@
-# test1
+# GIT
+
+git clone + clef HTTPS (dans terminal) pour importer du code sur github
 
 git add nomfichier --> ajouter  
 git add --all --> chgmnt a tous les fichiers 
